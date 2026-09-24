@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/amber-hero.gif" width="960" alt="Ilustração animada: uma mulher treina enquanto Newerson Mayer e Matheus Prates programam em seus computadores." />
+  <img src="./assets/amber-office-hub.gif" width="960" alt="Animação em pixel art do escritório Amber visto do alto: Newerson e Matheus programam à esquerda, Isaque planeja ao centro e a equipe de vendas trabalha à direita." />
 
   <h1>Grupo Amber</h1>
   <p>Método, conteúdo e tecnologia para o fitness feminino.</p>
@@ -25,7 +25,7 @@ Nossa missão é transformar vidas por meio do fitness com propósito, unindo tr
 
 Construímos ferramentas para cuidar da experiência de quem treina e dar autonomia à equipe que faz tudo acontecer. É assim que conectamos conteúdo, atendimento e operação no mesmo ecossistema.
 
-Na ilustração, a equipe de tecnologia é representada por [Newerson Mayer](https://github.com/newersonmayer) e [Matheus Prates](https://github.com/Theo01010).
+Na ilustração, [Newerson Mayer](https://github.com/newersonmayer) e [Matheus Prates](https://github.com/Theo01010) estão no espaço da tecnologia; Isaque e a equipe de vendas ocupam as outras áreas do escritório.
 
 **Lealdade · Espírito de Corpo · Unidade**
 
