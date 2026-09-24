@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/amber-tech-team.gif" width="960" alt="Ilustração animada de um escritório escuro da Amber, com a equipe trabalhando e o título Grupo Amber em branco no centro." />
+  <img src="./assets/amber-mascot.gif" width="220" height="220" alt="Mascote animado da Amber: uma anilha com núcleo vermelho acena e segura um halter." />
 
   <p>Método, conteúdo e tecnologia para o fitness feminino.</p>
 
@@ -24,7 +24,6 @@ Nossa missão é transformar vidas por meio do fitness com propósito, unindo tr
 
 Construímos ferramentas para cuidar da experiência de quem treina e dar autonomia à equipe que faz tudo acontecer. É assim que conectamos conteúdo, atendimento e operação no mesmo ecossistema.
 
-Na ilustração, [Newerson Mayer](https://github.com/newersonmayer) e [Matheus Prates](https://github.com/Theo01010) trabalham nos cantos da área de tecnologia. Pedro, Isaque e a equipe de vendas também fazem parte da cena. É uma interpretação artística da equipe, sem retratar fielmente os rostos.
 
 **Lealdade · Espírito de Corpo · Unidade**
 
