@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./assets/amber-tech-team.gif" width="960" alt="Ilustração animada de um escritório escuro da Amber, com a equipe trabalhando e o título Grupo Amber em branco no centro." />
 
-  <h1>Grupo Amber</h1>
   <p>Método, conteúdo e tecnologia para o fitness feminino.</p>
 
   [Conheça o Grupo Amber](https://grupoamber.com.br/) · [Trabalhe com a gente](https://grupoamber.com.br/carreiras) · [LinkedIn](https://www.linkedin.com/company/grupo-amber)
