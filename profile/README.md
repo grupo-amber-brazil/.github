@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/amber-tech-team.gif" width="960" alt="Ilustração animada da área de tecnologia da Amber: Newerson e Matheus nos cantos, Pedro, Isaque e vendedoras, com AMBER / PMF em branco sobre a cena." />
+  <img src="./assets/amber-tech-team.gif" width="960" alt="Ilustração animada de um escritório escuro da Amber, com a equipe trabalhando e o título Grupo Amber em branco no centro." />
 
   <h1>Grupo Amber</h1>
   <p>Método, conteúdo e tecnologia para o fitness feminino.</p>
