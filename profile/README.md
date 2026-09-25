@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/amber-mascot.gif" width="220" height="220" alt="Mascote animado da Amber: uma anilha com núcleo vermelho acena e segura um halter." />
+  <img src="./assets/amber-mascot.gif" width="260" alt="Mascote da Amber caminhando, levantando um halter e usando um notebook em um GIF animado." />
+
+  <h1>Grupo Amber</h1>
 
   <p>Método, conteúdo e tecnologia para o fitness feminino.</p>
 
@@ -23,7 +25,6 @@ Nossa missão é transformar vidas por meio do fitness com propósito, unindo tr
 ## Tecnologia é parte do negócio
 
 Construímos ferramentas para cuidar da experiência de quem treina e dar autonomia à equipe que faz tudo acontecer. É assim que conectamos conteúdo, atendimento e operação no mesmo ecossistema.
-
 
 **Lealdade · Espírito de Corpo · Unidade**
 
